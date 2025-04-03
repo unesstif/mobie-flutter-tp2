@@ -71,7 +71,9 @@ Feel free to fork and improve the project! Submit a pull request if you have enh
 
 📧 Contact
 
-For any inquiries, reach out at your_email@example.com.
+For any inquiries, reach out at youneselaabaoui@gmail.com
+
+EL AABAOUI Youness
 
 📝 Note
 
